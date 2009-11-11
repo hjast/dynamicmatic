@@ -11,8 +11,8 @@ DESCRIPTION
     gemspec.email = "nex342@gmail.com"
     gemspec.homepage = "http://github.com/nex3/dynamicmatic"
     gemspec.authors = ["Nathan Weizenbaum"]
-    gemspec.add_dependency 'sinatra', '>= 0.10.1'
-    gemspec.add_dependency 'staticmatic', '>= 0.10.1'
+    #gemspec.add_dependency 'sinatra', '>= 0.10.1'
+    #gemspec.add_dependency 'staticmatic', '>= 0.10.1'
     gemspec.has_rdoc = false
   end
   Jeweler::GemcutterTasks.new
